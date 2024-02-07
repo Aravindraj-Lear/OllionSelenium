@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Accepted cookies]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Questions page]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Users page]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Editors page]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Page 2]]>
+    </line>
+    <line>
+      <![CDATA[Maximum edit count: 19]]>
+    </line>
+    <line>
+      <![CDATA[Username corresponding to the max edit count: OneCricketeer]]>
+    </line>
+    <line>
+      <![CDATA[User location corresponding to the max edit count: Austin, TX, United States]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-07T15:38:43 IST" name="Suite" finished-at="2024-02-07T15:39:09 IST" duration-ms="26556">
+    <groups>
+    </groups>
+    <test started-at="2024-02-07T15:38:43 IST" name="Test" finished-at="2024-02-07T15:39:09 IST" duration-ms="26556">
+      <class name="Ollion.SeleniumAssignment.TestExecution">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Ollion.SeleniumAssignment.TestExecution@6187d1f5]" started-at="2024-02-07T15:38:43 IST" name="setup" finished-at="2024-02-07T15:38:57 IST" duration-ms="14450" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testNavigation()[pri:0, instance:Ollion.SeleniumAssignment.TestExecution@6187d1f5]" started-at="2024-02-07T15:38:57 IST" name="testNavigation" finished-at="2024-02-07T15:39:08 IST" duration-ms="11121" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Accepted cookies]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Questions page]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Users page]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Editors page]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Page 2]]>
+            </line>
+            <line>
+              <![CDATA[Maximum edit count: 19]]>
+            </line>
+            <line>
+              <![CDATA[Username corresponding to the max edit count: OneCricketeer]]>
+            </line>
+            <line>
+              <![CDATA[User location corresponding to the max edit count: Austin, TX, United States]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Ollion.SeleniumAssignment.TestExecution@6187d1f5]" started-at="2024-02-07T15:39:09 IST" name="tearDown" finished-at="2024-02-07T15:39:09 IST" duration-ms="843" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Ollion.SeleniumAssignment.TestExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
