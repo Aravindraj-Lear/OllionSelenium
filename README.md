@@ -19,4 +19,4 @@ Use Testng.xml file in project for execution
 
 # Report
 
-Reports will be available in test-output folder >> emailable-repor.html
+Reports will be available in "test-output" folder >> "emailable-report.html"
